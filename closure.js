@@ -17,3 +17,4 @@ function p(){
 }
 var z=p();
 z();
+console.log('kkk');
